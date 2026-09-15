@@ -42,16 +42,12 @@ I enjoy working across the entire application stack, but I'm especially interest
 
 <div align="center">
 
-```text
-FULL-STACK DEVELOPMENT
-        │
-        ├── FRONTEND ───────── Angular · React
-        │
-        ├── BACKEND ────────── Django · ASP.NET Core
-        │
-        ├── DATA ───────────── PostgreSQL · MySQL · SQL Server
-        │
-        └── ARCHITECTURE ───── REST APIs · Modular Systems · SaaS
+```mermaid
+graph LR
+    A[Full-Stack Development] --> B[Frontend<br/>Angular · React]
+    A --> C[Backend<br/>Django · ASP.NET Core]
+    A --> D[Data<br/>PostgreSQL · MySQL · SQL Server]
+    A --> E[Architecture<br/>REST APIs · Modular Systems · SaaS]
 ```
 
 </div>
@@ -153,15 +149,13 @@ I'm currently gaining professional experience developing applications with **.NE
 
 <div align="center">
 
-```text
-┌──────────────────────────┬──────────────────────────┐
-│ REST API Design          │ Software Architecture    │
-│ Authentication           │ System Design            │
-│ Authorization / RBAC     │ SaaS Architecture        │
-│ Multitenancy             │ Database Design          │
-│ API Integration          │ Modular Monoliths        │
-└──────────────────────────┴──────────────────────────┘
-```
+| | |
+|---|---|
+| REST API Design | Software Architecture |
+| Authentication | System Design |
+| Authorization / RBAC | SaaS Architecture |
+| Multitenancy | Database Design |
+| API Integration | Modular Monoliths |
 
 </div>
 
@@ -177,19 +171,15 @@ I'm especially interested in understanding how architectural decisions affect **
 
 <div align="center">
 
-```text
-                       APPLICATION
-                            │
-         ┌──────────────────┼──────────────────┐
-         │                  │                  │
-         ▼                  ▼                  ▼
-    RESERVATIONS          USERS             BILLING
-         │                  │                  │
-         └──────────────────┼──────────────────┘
-                            │
-                       SHARED CORE
-                            │
-                     INFRASTRUCTURE
+```mermaid
+graph TD
+    APP[Application] --> RES[Reservations]
+    APP --> USR[Users]
+    APP --> BIL[Billing]
+    RES --> CORE[Shared Core]
+    USR --> CORE
+    BIL --> CORE
+    CORE --> INFRA[Infrastructure]
 ```
 
 </div>
@@ -224,14 +214,14 @@ The project combines my **academic work in Systems Engineering** with practical 
 
 <div align="center">
 
-```text
-Reservations           Rooms & Availability
-Guests                 Services
-Customers              Payments
-Billing Records        Reports
-Users & Permissions    Notifications
-Hotel Configuration
-```
+| | |
+|---|---|
+| Reservations | Rooms & Availability |
+| Guests | Services |
+| Customers | Payments |
+| Billing Records | Reports |
+| Users & Permissions | Notifications |
+| Hotel Configuration | |
 
 </div>
 
@@ -272,13 +262,13 @@ My professional experience includes:
 
 <div align="center">
 
-```text
-Backend APIs                Frontend Applications
-Business Logic              Relational Databases
-Authentication              Authorization
-Multitenancy                SaaS Platforms
-External API Integrations   Hotel & Reservation Systems
-```
+| | |
+|---|---|
+| Backend APIs | Frontend Applications |
+| Business Logic | Relational Databases |
+| Authentication | Authorization |
+| Multitenancy | SaaS Platforms |
+| External API Integrations | Hotel & Reservation Systems |
 
 </div>
 
@@ -298,23 +288,9 @@ I've worked with the **Expedia Rapid Lodging API**, implementing and testing hot
 
 <div align="center">
 
-```text
-SEARCH
-  │
-  ▼
-AVAILABILITY
-  │
-  ▼
-RATE CHECK
-  │
-  ▼
-BOOKING
-  │
-  ▼
-RETRIEVE
-  │
-  ▼
-CANCELLATION
+```mermaid
+graph LR
+    A[Search] --> B[Availability] --> C[Rate Check] --> D[Booking] --> E[Retrieve] --> F[Cancellation]
 ```
 
 </div>
@@ -381,14 +357,9 @@ After finishing my undergraduate degree, I plan to pursue postgraduate studies, 
 
 <div align="center">
 
-```text
-FULL-STACK DEVELOPMENT
-         │
-         ▼
-BACKEND & SYSTEM DESIGN
-         │
-         ▼
-SOFTWARE ARCHITECTURE
+```mermaid
+graph TD
+    A[Full-Stack Development] --> B[Backend & System Design] --> C[Software Architecture]
 ```
 
 </div>
