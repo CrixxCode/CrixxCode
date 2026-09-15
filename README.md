@@ -383,9 +383,9 @@ English    ████████░░  B2
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CrixxCode&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A9BFF&icon_color=22D3EE&text_color=FAFAFA" alt="CrixxCode's GitHub stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=CrixxCode&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A9BFF&icon_color=22D3EE&text_color=FAFAFA" alt="CrixxCode's GitHub stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrixxCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A9BFF&text_color=FAFAFA" alt="Top languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CrixxCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A9BFF&text_color=FAFAFA" alt="Top languages"/>
 
 <br/>
 
@@ -393,7 +393,7 @@ English    ████████░░  B2
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CrixxCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="CrixxCode's GitHub trophies"/>
+<img src="https://github-trophies.vercel.app/?username=CrixxCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="CrixxCode's GitHub trophies"/>
 
 </div>
 
