@@ -113,7 +113,31 @@ that let me adapt to different technologies and product needs.
 
 <br/>
 
-<code>June 2026 – Present · Current</code>
+<code>September 2026 – Present · Current</code>
+
+<h3>Universidad de La Guajira</h3>
+
+<b>Junior Full-Stack Developer · Independent contractor</b>
+
+Working with the Vice-Rector's Office for Teaching at Universidad de La Guajira to support<br/>
+the development and technical evolution of the **Ejercitador Saber Pro** platform.<br/>
+I work as a full-stack developer on an existing codebase, focusing on QA, testing, bug fixing and refactoring.
+
+<table>
+  <tr><td><code>01</code>&nbsp; Functional and technical QA of the system.</td><td><code>04</code>&nbsp; Reviewing existing flows and validating behavior.</td></tr>
+  <tr><td><code>02</code>&nbsp; Running cross-module tests.</td><td><code>05</code>&nbsp; Refactoring components of the existing architecture.</td></tr>
+  <tr><td><code>03</code>&nbsp; Detecting, documenting and fixing bugs.</td><td><code>06</code>&nbsp; Supporting the product's technical and functional evolution.</td></tr>
+</table>
+
+<img src="https://img.shields.io/badge/Django-111213?style=flat-square&logo=django&logoColor=528DFF&labelColor=0A0A0B" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-111213?style=flat-square&logo=fastapi&logoColor=2BBDF5&labelColor=0A0A0B" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-111213?style=flat-square&logo=react&logoColor=528DFF&labelColor=0A0A0B" alt="React"/>
+<img src="https://img.shields.io/badge/MySQL-111213?style=flat-square&logo=mysql&logoColor=2BBDF5&labelColor=0A0A0B" alt="MySQL"/>
+<img src="https://img.shields.io/badge/QA_·_Testing_·_Refactoring-111213?style=flat-square&labelColor=0A0A0B" alt="QA · Testing · Refactoring"/>
+
+<br/><br/>
+
+<code>June 2026 – Octuber 2026</code>
 
 <h3>ALGORITHM S.A.S.</h3>
 
@@ -143,29 +167,6 @@ full development cycle of a new application that is currently in its testing pha
 
 <br/><br/>
 
-<code>September 2026 – Present · Current</code>
-
-<h3>Universidad de La Guajira</h3>
-
-<b>Junior Full-Stack Developer · Independent contractor</b>
-
-Working with the Vice-Rector's Office for Teaching at Universidad de La Guajira to support<br/>
-the development and technical evolution of the **Ejercitador Saber Pro** platform.<br/>
-I work as a full-stack developer on an existing codebase, focusing on QA, testing, bug fixing and refactoring.
-
-<table>
-  <tr><td><code>01</code>&nbsp; Functional and technical QA of the system.</td><td><code>04</code>&nbsp; Reviewing existing flows and validating behavior.</td></tr>
-  <tr><td><code>02</code>&nbsp; Running cross-module tests.</td><td><code>05</code>&nbsp; Refactoring components of the existing architecture.</td></tr>
-  <tr><td><code>03</code>&nbsp; Detecting, documenting and fixing bugs.</td><td><code>06</code>&nbsp; Supporting the product's technical and functional evolution.</td></tr>
-</table>
-
-<img src="https://img.shields.io/badge/Django-111213?style=flat-square&logo=django&logoColor=528DFF&labelColor=0A0A0B" alt="Django"/>
-<img src="https://img.shields.io/badge/FastAPI-111213?style=flat-square&logo=fastapi&logoColor=2BBDF5&labelColor=0A0A0B" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/React-111213?style=flat-square&logo=react&logoColor=528DFF&labelColor=0A0A0B" alt="React"/>
-<img src="https://img.shields.io/badge/MySQL-111213?style=flat-square&logo=mysql&logoColor=2BBDF5&labelColor=0A0A0B" alt="MySQL"/>
-<img src="https://img.shields.io/badge/QA_·_Testing_·_Refactoring-111213?style=flat-square&labelColor=0A0A0B" alt="QA · Testing · Refactoring"/>
-
-<br/><br/>
 
 <!-- ───────────────────────────── 03 ───────────────────────────── -->
 
